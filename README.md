@@ -1,6 +1,6 @@
 # 🛡️ The Ethical Hacker's Handbook 🛡️
 
-A comprehensive handbook for ethical hacking, penetration testing, red teaming, bug hunting, and threat intelligence. This repository serves as a reference guide for cybersecurity professionals, bug bounty hunters, and OSCP exam candidates.
+A note-formatted, structured handbook covering ethical hacking, penetration testing, red teaming, bug hunting, and threat intelligence. This repository serves as a reference guide for cybersecurity enthusiasts, bug bounty hunters, and OSCP exam candidates.
 
 ## What's Inside:
 
