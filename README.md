@@ -1,5 +1,7 @@
 # 🛡️ The Ethical Hacker's Handbook 🛡️
 
+![Static Badge](https://img.shields.io/badge/version-1.0-blue)
+
 A note-formatted, structured handbook covering ethical hacking, penetration testing, red teaming, bug hunting, and threat intelligence. This repository serves as a reference guide for cybersecurity enthusiasts, bug bounty hunters, and OSCP exam candidates.
 
 ## What's Inside:
