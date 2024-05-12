@@ -1,4 +1,4 @@
-# 🛡️ The Ethical Hacker's Handbook 🛡️
+# 🛡️ The Ethical Hacker's Field Journal 🛡️
 
 ![Static Badge](https://img.shields.io/badge/version-1.0-blue)
 
