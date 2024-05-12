@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/version-1.0-blue)
 
-A structured handbook covering ethical hacking, penetration testing, red teaming, bug hunting, and threat intelligence. This repository serves as a reference guide for cybersecurity enthusiasts, containing crucial general knowledge, methodologies, findings, and hands-on experience insights.
+A structured handbook covering penetration testing, red teaming, bug hunting, and threat intelligence. This repository serves as a reference guide for cybersecurity enthusiasts, containing crucial general knowledge, methodologies, findings, and hands-on experience insights.
 
 ## What's Inside:
 
