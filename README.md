@@ -21,3 +21,10 @@ A structured handbook covering penetration testing, red teaming, bug hunting, an
 ## Stay Ethical, Stay Secure:
 
 This handbook emphasizes ethical hacking practices and responsible disclosure to contribute to a safer internet.
+
+## License
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Have suggestions or found a bug? Feel free to open an issue or submit a pull request.
