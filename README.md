@@ -6,7 +6,7 @@ A note-formatted, structured handbook covering ethical hacking, penetration test
 
 ## What's Inside:
 
-- Writeups and step-by-step walkthroughs covering different hacking techniques.
+- Concise note-style descriptive sketches covering various hacking techniques; only clear and focused information.
 - Tips for bug hunting and responsible disclosure.
 - Insights into the threats and vulnerabilities.
 - Coverage of topics relevant to the OSCP exam.
