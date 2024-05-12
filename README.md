@@ -1,6 +1,6 @@
 # 🛡️ The Ethical Hacker's Field Journal 🛡️
 
-![Static Badge](https://img.shields.io/badge/version-1.0-blue)
+![Static Badge](https://img.shields.io/badge/version-1.0-blue) ![Static Badge](https://img.shields.io/badge/alpha-green) ![Static Badge](https://img.shields.io/badge/WIP-orange)
 
 A structured handbook covering penetration testing, red teaming, bug hunting, and threat intelligence. This repository serves as a reference guide for cybersecurity enthusiasts, containing crucial general knowledge, methodologies, findings, and hands-on experience insights.
 
