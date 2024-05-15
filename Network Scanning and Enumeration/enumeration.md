@@ -2,7 +2,7 @@
 
 ## Enumeration
 
-Enumeration is a crucial phase in the ethical hacking process. It involves gathering information about a target network to identify potential vulnerabilities and targets for further exploitation.
+A crucial phase in the ethical hacking process. It involves gathering information about a target network to identify potential vulnerabilities and targets for further exploitation.
 
 ### Basic Concepts
 
