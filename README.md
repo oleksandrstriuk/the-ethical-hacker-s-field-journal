@@ -7,7 +7,7 @@ A structured handbook covering penetration testing, red teaming, bug hunting, an
 ## What's Inside:
 
 1. [Penetration Testing Basics](https://github.com/oleksandrstriuk/the-ethical-hacker-s-field-journal/tree/main/Penetration%20Testing%20Basics)
-2. Information Gathering and Reconnaissance
+2. [Information Gathering and Reconnaissance](https://github.com/oleksandrstriuk/the-ethical-hacker-s-field-journal/tree/main/Information%20Gathering%20and%20Reconnaissance)
 3. Network Scanning and Enumeration
 4. Metasploit Framework
 5. Client-Side Attacks
