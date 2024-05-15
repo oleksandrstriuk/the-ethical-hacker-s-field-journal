@@ -6,10 +6,20 @@ A structured handbook covering penetration testing, red teaming, bug hunting, an
 
 ## What's Inside:
 
-- Concise, snippet-style descriptive notes covering various hacking techniques
-- Tips for bug hunting and responsible disclosure.
-- Insights into the threats and vulnerabilities.
-- Coverage of topics relevant to the OSCP exam.
+1. Penetration Testing Basics
+2. Information Gathering and Reconnaissance
+3. Network Scanning and Enumeration
+4. Metasploit Framework
+5. Client-Side Attacks
+6. Password Cracking
+7. Web Application Attacks
+8. Active Directory Attacks
+9. Tunneling and Port Redirection
+10. Exploitation Techniques
+11. Privilege Escalation
+12. Wireless Attacks
+13. Exfiltration and Post-Exploitation
+14. OSCP Cheet-Sheet Notes
 
 ## Who Is This For:
 
