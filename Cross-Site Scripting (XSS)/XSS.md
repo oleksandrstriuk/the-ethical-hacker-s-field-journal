@@ -1,6 +1,5 @@
 # Cross-Site Scripting (XSS)
 
-## Introduction
 Cross-Site Scripting (XSS) is a type of security vulnerability typically found in web applications. XSS attacks occur when an attacker can inject malicious scripts into web pages viewed by other users. These scripts can hijack user sessions, deface websites, or redirect users to malicious sites.
 
 ## Types of XSS
@@ -44,7 +43,6 @@ XSS vulnerabilities arise due to improper validation or escaping of user input. 
 - **Use Secure APIs**: Prefer secure APIs that automatically escape data.
 - **HTTPOnly Cookies**: Use HTTPOnly flag for cookies to prevent access via JavaScript.
 
-## Conclusion
 Regularly audit your code, stay updated with the latest security practices, and educate your team about common vulnerabilities and their prevention.
 
 ## Resources
