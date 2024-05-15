@@ -12,7 +12,7 @@ A structured handbook covering penetration testing, red teaming, bug hunting, an
 4. Metasploit Framework
 5. Client-Side Attacks
 6. Password Cracking
-7. Web Application Attacks
+7. [Web Application Attacks](https://github.com/oleksandrstriuk/the-ethical-hacker-s-field-journal/tree/main/Web%20Application%20Attacks)
 8. Active Directory Attacks
 9. Tunneling and Port Redirection
 10. Exploitation Techniques
