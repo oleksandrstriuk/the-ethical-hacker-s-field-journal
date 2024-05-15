@@ -26,7 +26,7 @@ A structured handbook covering penetration testing, red teaming, bug hunting, an
 - Penetration Testers
 - Red Teamers
 - Bug Bounty Hunters
-- OSCP Exam Candidates
+- eJPT/eCPPT/OSCP Exam Candidates
 
 ## Stay Ethical, Stay Secure:
 
