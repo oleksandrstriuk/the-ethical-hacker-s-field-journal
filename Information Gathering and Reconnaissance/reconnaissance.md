@@ -2,11 +2,25 @@
 
 Reconnaissance is the initial phase of ethical hacking where information about a target is gathered to identify vulnerabilities. This phase is crucial for understanding the target's infrastructure and potential entry points.
 
-### Passive Reconnaissance
+# Passive Information Gathering
+
+- Identifying IP addresses & DNS information.
+- Identifying domain names and domain ownership information.
+- Identifying email addresses and social media profiles.
+- Identifying web technologies being used on target sites.
+- Identifying subdomains.
+
+# Active Information Gathering
+
+- Discovering open ports on target systems.
+- Learning about the internal infrastructure of a target network/organization.
+- Gathering information from target systems.
+
+### Passive
 - **OSINT (Open Source Intelligence):** Gathering information from publicly available sources.
   - Examples: Websites, social media, public records.
 
-### Active Reconnaissance
+### Active
 - **Scanning and Probing:** Direct interaction with the target to gather information.
   - Examples: Network scanning, port scanning.
 
@@ -41,6 +55,3 @@ Reconnaissance is the initial phase of ethical hacking where information about a
 - **Books:** 
   - "The Web Application Hacker's Handbook" by Dafydd Stuttard and Marcus Pinto
   - "Hacking: The Art of Exploitation" by Jon Erickson
-- **Courses:**
-  - [Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/courses-and-certifications/oscp/)
-  - [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
