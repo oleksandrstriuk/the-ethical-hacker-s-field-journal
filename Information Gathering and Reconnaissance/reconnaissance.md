@@ -29,8 +29,6 @@ Reconnaissance is the initial phase of ethical hacking where information about a
 
 ## Resources
 - [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
-- [HackerOne Reconnaissance](https://www.hackerone.com/ethical-hacker/reconnaissance)
-- [Maltego Documentation](https://docs.maltego.com/)
 - [Nmap Documentation](https://nmap.org/book/man.html)
 - [theHarvester GitHub](https://github.com/laramies/theHarvester)
 
