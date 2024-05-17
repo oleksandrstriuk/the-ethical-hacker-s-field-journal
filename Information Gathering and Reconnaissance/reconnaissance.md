@@ -24,7 +24,7 @@ Reconnaissance is the initial phase of ethical hacking where information about a
 
 ### Web Reconnaissance Tools
 - **WhatWeb:** Identify websites and technologies used.
-  - `whatweb example.com`
+  - `whatweb somewebsite.com`
 - **Wappalyzer:** Browser extension to identify technologies on websites.
 
 ## Resources
@@ -44,6 +44,3 @@ Reconnaissance is the initial phase of ethical hacking where information about a
 - **Courses:**
   - [Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/courses-and-certifications/oscp/)
   - [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
-
-## Conclusion
-Reconnaissance sets the foundation for successful ethical hacking by identifying potential vulnerabilities and gathering essential information about the target. Always ensure to follow ethical guidelines and legal boundaries during this process.
