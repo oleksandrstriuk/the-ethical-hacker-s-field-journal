@@ -16,7 +16,7 @@ A structured handbook covering penetration testing, red teaming, bug hunting, an
 8. Active Directory Attacks
 9. Tunneling and Port Redirection
 10. Exploitation Techniques
-11. Privilege Escalation
+11. [Privilege Escalation](https://github.com/oleksandrstriuk/the-ethical-hacker-s-field-journal/tree/main/Privilege%20Escalation)
 12. Wireless Attacks
 13. Exfiltration and Post-Exploitation
 14. OSCP Cheet-Sheet Notes
