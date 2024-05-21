@@ -13,8 +13,12 @@
    - **Protocols**: IP (IPv4, IPv6), ICMP
    - **IP**: Assigns addresses, routes data
    - **ICMP**: Error messages, diagnostics (e.g., ping)
-4. **Network Interface Layer**: Manages hardware addressing and defines protocols for physical media.
-   - **Examples**: Ethernet, Wi-Fi
+4. **Data Link Layer**: Handles physical addressing and access to the network medium.
+   - **Examples**: Ethernet (MAC addresses), Wi-Fi
+   - **Functions**: Frame traffic control, error detection, and correction.
+5. **Physical Layer**: Transmits raw bitstream over physical medium.
+   - **Examples**: Cables (Ethernet, fiber optics), Radio waves (Wi-Fi)
+   - **Functions**: Physical connection, signaling, data transmission, and reception.
 
 ### Key Concepts:
 - **IP Address**: Unique identifier for devices on a network.
