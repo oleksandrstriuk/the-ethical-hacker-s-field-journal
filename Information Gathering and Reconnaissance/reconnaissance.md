@@ -43,6 +43,9 @@ Reconnaissance is the initial phase of ethical hacking where information about a
 - **BuiltWith:** Browser extension to find out what websites are built with, filter by location, traffic, vertical and more.
 - **DNSdumpster:** DNS recon & research, find & lookup dns records.
 
+### Firewall Detectors
+- **WAFW00F:** Web application firewall fingerprinting tool; available [here](https://github.com/EnableSecurity/wafw00f).
+
 ## Resources
 - [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
 - [Nmap Documentation](https://nmap.org/book/man.html)
