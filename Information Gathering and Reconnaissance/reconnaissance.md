@@ -42,6 +42,7 @@ Reconnaissance is the initial phase of ethical hacking where information about a
 - **Wappalyzer:** Browser extension to identify technologies on websites.
 - **BuiltWith:** Browser extension to find out what websites are built with, filter by location, traffic, vertical and more.
 - **DNSdumpster:** DNS recon & research, find & lookup dns records.
+- **Sublist3r:** Python tool designed to enumerate subdomains of websites using OSINT; available [here](https://github.com/aboul3la/Sublist3r).
 
 ### Firewall Detectors
 - **WAFW00F:** Web application firewall fingerprinting tool; available [here](https://github.com/EnableSecurity/wafw00f).
