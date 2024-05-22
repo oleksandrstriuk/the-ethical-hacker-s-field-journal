@@ -11,7 +11,7 @@ A structured handbook covering penetration testing, red teaming, bug hunting, an
 3. [Network Scanning and Enumeration](https://github.com/oleksandrstriuk/the-ethical-hacker-s-field-journal/tree/main/Network%20Scanning%20and%20Enumeration)
 4. Metasploit Framework
 5. Client-Side Attacks
-6. Password Cracking
+6. [Password Cracking](https://github.com/oleksandrstriuk/the-ethical-hacker-s-field-journal/tree/main/Password%20Cracking)
 7. [Web Application Attacks](https://github.com/oleksandrstriuk/the-ethical-hacker-s-field-journal/tree/main/Web%20Application%20Attacks)
 8. Active Directory Attacks
 9. Tunneling and Port Redirection
